@@ -4,7 +4,7 @@ Shenshuo
 
 ### 开发中的快乐开源任务
 1【Docathon】补充缺失的中文 API 文档（Inplace 类）
-2完成 Paddle 本地编译
+2完成 Paddle 本地编译 
 3Stable-Diffusion 训练推理 
 
 ### 本双周工作
